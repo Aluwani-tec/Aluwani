@@ -6,7 +6,7 @@
 
 ### 🌍 About Me
 - 💡 Passionate about **STEM innovation, AI, and cloud computing**
-- ☁️ Currently studying **AWS Cloud Foundations** and **Microsoft Azure**
+- ☁️ Currently studying **AWS re/start Cloud Practitioner** and **Microsoft Azure**
 - 🧠 Building digital systems for schools, SMMEs, and communities through **Noxora Group Technologies**
 - 🔍 Focus: **React, Node.js, Python, AWS, Azure**
 - 🌱 Committed to creating impact-driven tech solutions across Africa
